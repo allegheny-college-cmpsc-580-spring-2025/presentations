@@ -35,3 +35,17 @@ whiteboard, you are able to copy and paste them into the presentation.
 
 ## Presentation log
 
+While the presentation will be done jointly, each student in the presenting team will need to complete their own `Presentation Log` post
+using their `Project Portfolio`. (See course [evaluation and deliverable guidelines for these posts](https://github.com/allegheny-college-cmpsc-580-spring-2025/course-materials/blob/main/CODE_OF_CONDUCT.md#presentation-log) for more information vis-a-vis requirements.)
+
+This posts asks you to consider:
+* the reason(s) why you felt your inquiry was specific to your academic training (i.e. major)
+* the relative success of your attempt at visualizing the experiment, and:
+  * where the visualization succeeds in confirming those reasons
+  * where there's room to improve the visualization
+* a statement of your final research question underpinning the experiment, and
+* a list of sources or areas of inquiry that you would pursue to deepen your engagement with this question as research
+
+To be clear with your responses to each of the areas above, the instructor encourages you to use [Markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) headings to create sections.
+Each student is also required to upload their own copy of the presentation to their `Presentation Log`, linking it in the post. See the
+sample post included in your `Project Portfolio` for details.
