@@ -29,3 +29,9 @@ work from your FigJam whiteboards, including a tool that _might_ help create sli
 
 ![Creating a Figma Slides outline](https://github.com/user-attachments/assets/db1f1f8b-651a-408e-8eab-d4622944d1ad)
 
+Using this tool will allow you to create a _template_ of a possible presentation based on the contents of the FigJam board. (This implies
+that the more content you have, the more detailed your outline will be!) While the template may not copy images from your
+whiteboard, you are able to copy and paste them into the presentation.
+
+## Presentation log
+
