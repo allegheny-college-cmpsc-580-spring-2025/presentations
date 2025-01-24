@@ -8,13 +8,15 @@
 
 ## Guidelines
 
-Your goal in this presentation is tackle three key areas:
+Your goal in this presentation is tackle the following key areas:
 
 - A definition of the experiment as `reproducible`, `repeatable`, or `replicable`, accompanied by reasons why
 - An assessment of this experiment as _research_, which may include (but is not limited to):
   - If the experiment leads to new, generalizable outcomes
   - If the experiment uncovers new areas of further exploration, even if it doesn't (itself) come to a conclusion
   - If the experiment features a research question motivated by a need to respond to questions beyond "yes" or "no" answers
+- A comparison of the pair's unique methods and where their experimental approaches differed
+- Discussion of the pair's visualizations and how they confirm or deny notions of `reproducibility` or `researchability` of this question
 - A speculation as to the _disciplinary significance_ (that is, how your approach to this question reflects your academic training to this point)
 
 You will also be _grouped_ into pairs for this exercise, to be announced in our course's Discord server.
