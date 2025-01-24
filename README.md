@@ -19,6 +19,9 @@ Your goal in this presentation is tackle three key areas:
 
 You will also be _grouped_ into pairs for this exercise, to be announced in our course's Discord server.
 
+Keep in mind that these presentations are no more than `5` minutes. This particular presentation _will not_ have a `Q & A`. Evaluation will
+be done by members of the class immediately proceeding the completion of the presentation.
+
 ### Slides
 
 For this presentation, you must create slides that aim to synthesize your independent findings. You may use any of your
