@@ -8,6 +8,9 @@
 
 ## Guidelines
 
+Our goal this week is to describe the process of reproducing our original research article's attempt to show efficacy or 
+usefulness of their methods and work.
+
 ## Slides
 
 This presentation should involve a short slide deck (between `5`-`7` slides) which details:
