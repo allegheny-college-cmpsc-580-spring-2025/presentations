@@ -26,7 +26,7 @@ This presentation should involve a short slide deck (between `5`-`7` slides) whi
   * show generated deliverable(s)
   * describe steps you've taken/software you've altered, created, or used
   * methods you've employed
-* a description your progress _and_ how you will know you've completed/reproduced the experiment
+* a description of your progress _and_ how you will know you've completed/reproduced the experiment
 
 ## Presentation log
 
